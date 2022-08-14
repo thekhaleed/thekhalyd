@@ -1,4 +1,4 @@
-# thekhakyd
+# thekhalyd
 
 Currently studing Bsc. Software Engineering at University of Eastern Africa, Baraton.
 Also taking ALX classes under ALX-sponsorship.
